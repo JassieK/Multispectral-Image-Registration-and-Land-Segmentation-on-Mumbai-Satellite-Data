@@ -83,25 +83,3 @@ plt.show()
 #exporting the fused Multi-spectral image and resized Panchromatic Image
 multi.save('D:/IMAGEE SEG/Processed imgs/4j_Multi.jpg')
 resized_pan.save('D:/IMAGEE SEG/Processed imgs/4j_pan.jpg' )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
