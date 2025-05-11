@@ -19,7 +19,6 @@ All images follow the naming pattern:
 `mum_<band>_cropped_<set_number>.jpg`  
 where `<band>` = `blu`, `grn`, `nir`, or `pan`.
 
-> 🔓 **I will be uploading these data folders too, so feel free to explore or test the code with them!**
 
 These images represent real urban areas in Mumbai and allow for a rich analysis pipeline involving image fusion, enhancement, and segmentation — just as you'd see in remote sensing or defense-grade research.
 
