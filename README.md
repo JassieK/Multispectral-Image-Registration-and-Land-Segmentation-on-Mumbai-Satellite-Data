@@ -1,4 +1,4 @@
-# 🌆 MumbaiVision: Multi-senor Image Fusion & Urban Segmentation
+# 🌆 MumbaiVision: Multi-sensor Image Fusion & Urban Segmentation
 
 This project demonstrates a complete pipeline for fusing **multispectral and panchromatic satellite imagery** of Mumbai and segmenting urban land regions using **KMeans clustering**. It includes image preprocessing, registration with SIFT, pansharpening (HSI-based fusion), enhancement, and segmentation.
 
